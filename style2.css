@@ -92,3 +92,10 @@
         color: rgb(107, 3, 93);
     }
 }                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+
+.list{
+    color:blue;
+    background-color:pink;
+    display:flex;
+    justify-content:space-between;
+}
